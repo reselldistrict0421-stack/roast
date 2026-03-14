@@ -283,46 +283,36 @@ Roast interrogates YOUR thinking until your idea is bulletproof.
 
 ## 🧬 Three Iron Rules
 
-```
-┌─────────────────────────────────────────────────────┐
-│  #1  QUESTIONS ONLY                                 │
-│      Never answer. Never suggest. Never solve.      │
-│      All insights come from the USER.               │
-├─────────────────────────────────────────────────────┤
-│  #2  CHAIN QUESTIONS                                │
-│      Every question builds on the last answer.      │
-│      Follow the thread. Always go deeper.           │
-├─────────────────────────────────────────────────────┤
-│  #3  NEVER ACCEPT VAGUENESS                         │
-│      "Maybe" / "probably" / "I think" / "sort of"   │
-│      = hasn't thought it through = keep digging.    │
-└─────────────────────────────────────────────────────┘
-```
+| # | Rule | Detail |
+|---|------|--------|
+| 1 | **QUESTIONS ONLY** | Never answer. Never suggest. Never solve. All insights come from the USER. |
+| 2 | **CHAIN QUESTIONS** | Every question builds on the last answer. Follow the thread. Always go deeper. |
+| 3 | **NEVER ACCEPT VAGUENESS** | "Maybe" / "probably" / "I think" / "sort of" = hasn't thought it through = keep digging. |
 
 ## 📊 Closing Ritual
 
 When the session reaches depth, Roast produces a structured report:
 
 ```
-┌──────────────────────────────────────┐
-│  🔥 ROAST COMPLETE · DEPTH REPORT   │
-├──────────────────────────────────────┤
-│  🎯 Core Discovery                  │
-│  What you said that surprised you    │
-│                                      │
-│  🔍 Exposed Assumptions             │
-│  Hidden premises you didn't know     │
-│  you were making                     │
-│                                      │
-│  💡 Turning Point                    │
-│  The question that changed your mind │
-│                                      │
-│  ⚡ Next Action                      │
-│  What you'll do differently now      │
-│                                      │
-│  🪞 Blind Spot Map                   │
-│  Where you tend to dodge or blur     │
-└──────────────────────────────────────┘
++--------------------------------------+
+|  ROAST COMPLETE - DEPTH REPORT       |
++--------------------------------------+
+|  Core Discovery                      |
+|  What you said that surprised you    |
+|                                      |
+|  Exposed Assumptions                 |
+|  Hidden premises you didn't know     |
+|  you were making                     |
+|                                      |
+|  Turning Point                       |
+|  The question that changed your mind |
+|                                      |
+|  Next Action                         |
+|  What you'll do differently now      |
+|                                      |
+|  Blind Spot Map                      |
+|  Where you tend to dodge or blur     |
++--------------------------------------+
 ```
 
 ## 📜 Philosophy
